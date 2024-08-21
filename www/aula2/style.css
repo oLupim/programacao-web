@@ -1,0 +1,17 @@
+*{
+    margin: 50px auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+table{
+    background: rgb(240,240,240);
+    background: linear-gradient(0deg, rgba(242,242,242,1) 0%, rgba(255,255,255,1) 100%);
+    border-radius: 20px;
+    border: 1px solid #dddddd;
+    padding: 25px;
+    text-align: left;
+}
+
+th{
+    padding-right: 30px;
+}
