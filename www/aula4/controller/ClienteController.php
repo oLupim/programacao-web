@@ -14,11 +14,11 @@ class ClienteController{
     {
         $listaDeClientes = [
             [
-                "nome" => "Gustavo",
+                "nome" => "Paula",
                 "cpf" => "000.000.000-00"
             ],
             [
-                "nome" => "Lucas",
+                "nome" => "Pedro",
                 "cpf" => "111.111.111-11"
             ]
         ];
